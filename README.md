@@ -1,0 +1,1 @@
+All solutions are inside `script.js`.
