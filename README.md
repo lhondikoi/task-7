@@ -1,1 +1,1 @@
-All solutions are inside `script.js`.
+Open `index.html` to view the program output. All solutions are inside `script.js`.
